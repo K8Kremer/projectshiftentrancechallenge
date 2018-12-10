@@ -62,7 +62,7 @@ function findLeastFrequent(array){
 console.log ("The least frequent element is: " + findLeastFrequent(array)+ ".");
 
 
-//start Problem 6; did not accomplish goal
+//start Problem 6 did not accomplish goal
 
 const firstArray = ['a', 'b', 'c', 'a', 'a', 'b', 'd'];
 const secondArray = ['a', 'b', 'b', 'a', 'e', 'c', 'c', 'g'];
